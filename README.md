@@ -22,9 +22,6 @@ Criar uma visão interativa para acompanhar indicadores de faturamento, permitin
 - DAX
 - Modelagem de Dados
 
-### 🌍 Visualização Online
-🔗 [Acesse o dashboard publicado aqui](COLE_SEU_LINK_AQUI)
-
 ---
 
 ## 🇺🇸 English
@@ -48,6 +45,3 @@ Create an interactive view to track revenue indicators, helping to identify tren
 - Power BI Desktop
 - DAX
 - Data Modeling
-
-### 🌍 Online View
-🔗 [Access the published dashboard here](PASTE_YOUR_LINK_HERE)
