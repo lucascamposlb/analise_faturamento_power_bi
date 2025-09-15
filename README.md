@@ -7,7 +7,7 @@ Este repositório contém um dashboard desenvolvido em **Power BI** para anális
 Criar uma visão interativa para acompanhar indicadores de faturamento, permitindo identificar tendências, avaliar performance de lojas e produtos e otimizar estratégias comerciais.
 
 ### 🖼️ Visualização
-![Visão Geral](images/dashboard.png)
+![Visão Geral](analise_faturamento.PNG)
 
 ### 📈 Principais métricas
 - Faturamento total
@@ -34,7 +34,7 @@ This repository contains a dashboard developed in **Power BI** for revenue analy
 Create an interactive view to track revenue indicators, helping to identify trends, evaluate store and product performance, and optimize business strategies.
 
 ### 🖼️ Visual
-![Overview](images/dashboard.png)
+![Overview](analise_faturamento.PNG)
 
 ### 📈 Main KPIs
 - Total revenue
